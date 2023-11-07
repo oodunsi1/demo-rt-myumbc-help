@@ -1,0 +1,23 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - rt_myumbcHelpPage
+      - rtdev_myumbcHelpPage
+
+jobs:
+  deploy:
+    runs-on: [self-hosted]
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Deploy
+        run: |
+          DESTINATION="/home/rt-myumbc-help-github/${{github.ref_name}}/"
+          RSYNC_COMMAND="/usr/bin/rsync -av --delete"
+          RSYNC_COMMAND+=" --exclude=.git/"
+          RSYNC_COMMAND+=" --exclude=.github/"
+          RSYNC_COMMAND+=" --exclude=/README.md"
+          $RSYNC_COMMAND ${{ github.workspace }}"/" $DESTINATION

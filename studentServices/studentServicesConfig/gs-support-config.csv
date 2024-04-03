@@ -1,0 +1,10 @@
+Request type,Description to display on hover ('+' is replaced by a comma and space),Hide from Everyone (Except Staff),Hide From Undergrads,"Tags (Column E onward, no particular order)",,,,,,,,,,,,
+ADMIT,If you are faculty or staff and need help with the Admission Decision System+choose this option.,Y,Y,Admit,Access Request to ADMIT,Finding Applications,Entering Admisison Decisions,,,,,,,,,
+Admissions,Get help with application+admissions and registration questions.,N,N,Admit,Admissions,Application,Register,Registration,Enroll,Apply,GRE,Plan,matric,term activate,course permission,test Score
+Financial,Get help with billing+tuition and fees related inquiries.,N,Y,Financial,bill,tuition,fee,,,,,,,,,
+Graduate Assistantship,Get help with Graduate Assistantship (GA) related questions.,N,Y,GA,Grad Assistant,Grad Assitantship,Dpeartment,Tuition,Reimbursement,,,,,,,
+IT-Support,Get Help with Information Technology (IT)+computer+desktop or laptop+technical+system access.,Y,Y,IT-support,IT,Information Technology,Computer,Deaktop,Laptop,Technical,Access,ADMIT,,,,
+Progressions,Get help with graduation+candidacy+dissertation+catalog related questions.,N,Y,Progressions,Catalog,graduation,defer,dissertation,candidacy,,,,,,,
+Recruitment,Get help with application+admission+test scores+deadlines related questions.,N,N,Recruitment,recruit,admit,GRE,TOEFL,PTE,IELTS,Test Score,Department,Plan,,,
+Residency,Get help with residency questions (in state+out of state+etc.).,N,N,Residency,in state,out of state,bill,,,,,,,,,
+General Inquiry,If none of the above categories describe your issue+choose this option.,N,N,General,Other,,,,,,,,,,,

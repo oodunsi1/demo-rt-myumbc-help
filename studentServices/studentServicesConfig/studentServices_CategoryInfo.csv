@@ -35,12 +35,14 @@ Student Records,Veterans,How do I use my Veteran Affairs Benefits to fund my edu
 Student Records,Veterans,Veteran Services Frequently Asked Questions (FAQs),Link,https://veterans.umbc.edu/faq/
 Student Records,Veterans,Resources for Veteran Students,Link ,https://veterans.umbc.edu/
 Student Records,Veterans,Veterans Integration to Academic Leadership (VITAL) program,Link ,https://veterans.umbc.edu/resources/
-Academic Success,Academic Success Center ,SI PASS,Link ,https://academicsuccess.umbc.edu/si-pass/
-Academic Success,Academic Success Center ,SI PASS Schedule,Link ,https://academicsuccess.umbc.edu/si-pass/si-pass-schedule/
-Academic Success,Academic Success Center ,Appointing Tutoring ,Link ,https://academicsuccess.umbc.edu/appointment-tutoring/
-Academic Success,Academic Success Center ,Computer Success Center ,Link,https://academicsuccess.umbc.edu/computing-success-center/
-Academic Success,Academic Success Center ,Drop-In Tutoring (Math & Science Center),Link,https://academicsuccess.umbc.edu/drop-in-tutoring/
-Academic Success,Academic Success Center ,Writing Center ,Link ,https://academicsuccess.umbc.edu/writing-center/
+Academic Success,Academic Success Center,SI PASS,Link ,https://academicsuccess.umbc.edu/si-pass/
+Academic Success,Academic Success Center,SI PASS Schedule,Link ,https://academicsuccess.umbc.edu/si-pass/si-pass-schedule/
+Academic Success,Academic Success Center,Academic Advocacy,Link,https://academicsuccess.umbc.edu/academic-advocacy/
+Academic Success,Academic Success Center,Appointment Tutoring ,Link ,https://academicsuccess.umbc.edu/appointment-tutoring/
+Academic Success,Academic Success Center,Computer Success Center ,Link,https://academicsuccess.umbc.edu/computing-success-center/
+Academic Success,Academic Success Center,Drop-In Tutoring,Link,https://academicsuccess.umbc.edu/drop-in-tutoring/
+Academic Success,Academic Success Center,Placement Testing,Link,https://academicsuccess.umbc.edu/placement-testing/
+Academic Success,Academic Success Center,Writing Center ,Link ,https://academicsuccess.umbc.edu/writing-center/
 Academic Success,Graduation,What is the Commencement Ceremony Process?,FAQ,https://registrar.umbc.edu/commencement/
 Academic Success,Graduation,What Is the Graduation Verification Process?,FAQ,https://registrar.umbc.edu/graduation-verification/
 Academic Success,Graduation,Undergraduate Graduation Frequently Asked Questions (FAQs),Link,https://umbc.atlassian.net/wiki/spaces/faq/pages/30745627/Undergraduate+Graduation
@@ -152,15 +154,15 @@ Student Affairs,Off-Campus Student Resources,Off-Campus Housing ,Link,https://oc
 Student Affairs,Off-Campus Student Resources,Commuter Programs & Events ,Link,https://ocss.umbc.edu/get-connected/commuters/commuter-programs/
 Student Affairs,Off-Campus Student Resources,Commuter Gold Card,Link,https://ocss.umbc.edu/get-connected/commuters/commuter-gold-card/
 Student Affairs,Off-Campus Student Resources,OCSS myUMBC ,Link,https://my3.my.umbc.edu/groups/ocss
-Student Life,Recreation  ,When is the RAC Open?,FAQ,https://recreation.umbc.edu/inside-recreation/recreation-hours-the-rac/
-Student Life,Recreation  ,When is the RAC Pool Open?,FAQ,https://recreation.umbc.edu/pool-schedule/
-Student Life,Recreation  ,UMBC Recreation Home Page,Link,https://recreation.umbc.edu/
-Student Life,Recreation  ,Group Fitness Events ,Link,https://recreation.umbc.edu/fitness-wellness/class-schedule/
-Student Life,Recreation  ,Wellness Events,Link,https://recreation.umbc.edu/fitness-wellness/fitness-and-wellness-events/
-Student Life,Recreation  ,Intramurals ,Link,https://recreation.umbc.edu/intramurals/
-Student Life,Recreation  ,Club Sports,Link,https://recreation.umbc.edu/club-sports/
-Student Life,Recreation  ,Aquatics ,Link,https://recreation.umbc.edu/aquatics/
-Student Life,Recreation  ,Personal Training,Link ,https://recreation.umbc.edu/personal-training/
+Student Life,Recreation,When is the RAC Open?,FAQ,https://recreation.umbc.edu/inside-recreation/recreation-hours-the-rac/
+Student Life,Recreation,When is the RAC Pool Open?,FAQ,https://recreation.umbc.edu/pool-schedule/
+Student Life,Recreation,UMBC Recreation Home Page,Link,https://recreation.umbc.edu/
+Student Life,Recreation,Group Fitness Events ,Link,https://recreation.umbc.edu/fitness-wellness/class-schedule/
+Student Life,Recreation,Wellness Events,Link,https://recreation.umbc.edu/fitness-wellness/fitness-and-wellness-events/
+Student Life,Recreation,Intramurals ,Link,https://recreation.umbc.edu/intramurals/
+Student Life,Recreation,Club Sports,Link,https://recreation.umbc.edu/club-sports/
+Student Life,Recreation,Aquatics ,Link,https://recreation.umbc.edu/aquatics/
+Student Life,Recreation,Personal Training,Link ,https://recreation.umbc.edu/personal-training/
 Student Life,Residential Life,Residential Life Frequently Asked Questions (FAQs),Link,https://reslife.umbc.edu/about/
 Student Life,Residential Life,Important Dates,Link,https://reslife.umbc.edu/important-dates/
 Student Life,Residential Life,Move-In Information,Link,https://reslife.umbc.edu/important-dates/move-in/

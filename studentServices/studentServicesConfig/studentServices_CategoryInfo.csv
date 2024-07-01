@@ -35,14 +35,14 @@ Student Records,Veterans,How do I use my Veteran Affairs Benefits to fund my edu
 Student Records,Veterans,Veteran Services Frequently Asked Questions (FAQs),Link,https://veterans.umbc.edu/faq/
 Student Records,Veterans,Resources for Veteran Students,Link ,https://veterans.umbc.edu/
 Student Records,Veterans,Veterans Integration to Academic Leadership (VITAL) program,Link ,https://veterans.umbc.edu/resources/
-Academic Success,Academic Success Center,SI PASS,Link ,https://academicsuccess.umbc.edu/si-pass/
-Academic Success,Academic Success Center,SI PASS Schedule,Link ,https://academicsuccess.umbc.edu/si-pass/si-pass-schedule/
-Academic Success,Academic Success Center,Academic Advocacy,Link,https://academicsuccess.umbc.edu/academic-advocacy/
-Academic Success,Academic Success Center,Appointment Tutoring ,Link ,https://academicsuccess.umbc.edu/appointment-tutoring/
-Academic Success,Academic Success Center,Computer Success Center ,Link,https://academicsuccess.umbc.edu/computing-success-center/
-Academic Success,Academic Success Center,Drop-In Tutoring,Link,https://academicsuccess.umbc.edu/drop-in-tutoring/
-Academic Success,Academic Success Center,Placement Testing,Link,https://academicsuccess.umbc.edu/placement-testing/
-Academic Success,Academic Success Center,Writing Center ,Link ,https://academicsuccess.umbc.edu/writing-center/
+Academic Success,Academic Success Center ,SI PASS,Link ,https://academicsuccess.umbc.edu/si-pass/
+Academic Success,Academic Success Center ,SI PASS Schedule,Link ,https://academicsuccess.umbc.edu/si-pass/si-pass-schedule/
+Academic Success,Academic Success Center ,Academic Advocacy,Link,https://academicsuccess.umbc.edu/academic-advocacy/
+Academic Success,Academic Success Center ,Appointment Tutoring ,Link ,https://academicsuccess.umbc.edu/appointment-tutoring/
+Academic Success,Academic Success Center ,Computer Success Center ,Link,https://academicsuccess.umbc.edu/computing-success-center/
+Academic Success,Academic Success Center ,Drop-In Tutoring,Link,https://academicsuccess.umbc.edu/drop-in-tutoring/
+Academic Success,Academic Success Center ,Placement Testing,Link,https://academicsuccess.umbc.edu/placement-testing/
+Academic Success,Academic Success Center ,Writing Center ,Link ,https://academicsuccess.umbc.edu/writing-center/
 Academic Success,Graduation,What is the Commencement Ceremony Process?,FAQ,https://registrar.umbc.edu/commencement/
 Academic Success,Graduation,What Is the Graduation Verification Process?,FAQ,https://registrar.umbc.edu/graduation-verification/
 Academic Success,Graduation,Undergraduate Graduation Frequently Asked Questions (FAQs),Link,https://umbc.atlassian.net/wiki/spaces/faq/pages/30745627/Undergraduate+Graduation
@@ -103,7 +103,8 @@ Library,Library Resources,Library Map and Floor Info,Link,https://library.umbc.e
 Library,Library Resources,"Study Spaces, Lockers, & Specialty Rooms",Link,https://library.umbc.edu/studyspaces.php
 Library,Reference,Research References Frequently Asked Questions (FAQs),Link,https://wiki.umbc.edu/display/faq/Starting+Research
 Library,Reserves,Course Material Reserves Frequently Asked Questions (FAQs),Link,https://wiki.umbc.edu/display/faq/Course+Reserves
-Library,Special Collections,Special Collections Frequently Asked Questions (FAQs),Link,https://wiki.umbc.edu/pages/viewpage.action?pageId=21725615
+Library,Special Collections,Special Collections Site,Link,https://library.umbc.edu/specialcollections/
+Library,Special Collections,Visit Special Collections,Link,https://library.umbc.edu/specialcollections/visit/
 Parking & Transportation,Parking,Where can I access the UMBC Parking Map?,FAQ,https://umbc.edu/wp-content/uploads/2023/11/PARK-parking-map-2023.pdf
 Parking & Transportation,Parking,Where can I find information about Visitor Parking at UMBC?,FAQ,https://parking.umbc.edu/pay-stations/
 Parking & Transportation,Parking,Parking Services Frequently Asked Questions (FAQs),Link,https://parking.umbc.edu/faqs/
@@ -154,15 +155,15 @@ Student Affairs,Off-Campus Student Resources,Off-Campus Housing ,Link,https://oc
 Student Affairs,Off-Campus Student Resources,Commuter Programs & Events ,Link,https://ocss.umbc.edu/get-connected/commuters/commuter-programs/
 Student Affairs,Off-Campus Student Resources,Commuter Gold Card,Link,https://ocss.umbc.edu/get-connected/commuters/commuter-gold-card/
 Student Affairs,Off-Campus Student Resources,OCSS myUMBC ,Link,https://my3.my.umbc.edu/groups/ocss
-Student Life,Recreation,When is the RAC Open?,FAQ,https://recreation.umbc.edu/inside-recreation/recreation-hours-the-rac/
-Student Life,Recreation,When is the RAC Pool Open?,FAQ,https://recreation.umbc.edu/pool-schedule/
-Student Life,Recreation,UMBC Recreation Home Page,Link,https://recreation.umbc.edu/
-Student Life,Recreation,Group Fitness Events ,Link,https://recreation.umbc.edu/fitness-wellness/class-schedule/
-Student Life,Recreation,Wellness Events,Link,https://recreation.umbc.edu/fitness-wellness/fitness-and-wellness-events/
-Student Life,Recreation,Intramurals ,Link,https://recreation.umbc.edu/intramurals/
-Student Life,Recreation,Club Sports,Link,https://recreation.umbc.edu/club-sports/
-Student Life,Recreation,Aquatics ,Link,https://recreation.umbc.edu/aquatics/
-Student Life,Recreation,Personal Training,Link ,https://recreation.umbc.edu/personal-training/
+Student Life,Recreation  ,When is the RAC Open?,FAQ,https://recreation.umbc.edu/inside-recreation/recreation-hours-the-rac/
+Student Life,Recreation  ,When is the RAC Pool Open?,FAQ,https://recreation.umbc.edu/pool-schedule/
+Student Life,Recreation  ,UMBC Recreation Home Page,Link,https://recreation.umbc.edu/
+Student Life,Recreation  ,Group Fitness Events ,Link,https://recreation.umbc.edu/fitness-wellness/class-schedule/
+Student Life,Recreation  ,Wellness Events,Link,https://recreation.umbc.edu/fitness-wellness/fitness-and-wellness-events/
+Student Life,Recreation  ,Intramurals ,Link,https://recreation.umbc.edu/intramurals/
+Student Life,Recreation  ,Club Sports,Link,https://recreation.umbc.edu/club-sports/
+Student Life,Recreation  ,Aquatics ,Link,https://recreation.umbc.edu/aquatics/
+Student Life,Recreation  ,Personal Training,Link ,https://recreation.umbc.edu/personal-training/
 Student Life,Residential Life,Residential Life Frequently Asked Questions (FAQs),Link,https://reslife.umbc.edu/about/
 Student Life,Residential Life,Important Dates,Link,https://reslife.umbc.edu/important-dates/
 Student Life,Residential Life,Move-In Information,Link,https://reslife.umbc.edu/important-dates/move-in/
@@ -170,3 +171,13 @@ Student Life,Residential Life,Move-Out Information,Link,https://reslife.umbc.edu
 Student Life,Residential Life,Break Closing,Link,https://reslife.umbc.edu/important-dates/break-closing/
 Student Life,Residential Life,Submit a FIXIT Request,Link,https://umbc.assetworks.cloud/ready/
 Other,,TBD,N/A,
+Service Learning,Shriver Center,Service-Learning and Community Engagement Opportunities,Link,https://shrivercenter.umbc.edu/service-learning/
+Service Learning,Shriver Center,Community Leadership Programs,Link,https://professionalprograms.umbc.edu/community-leadership/?gclid=CjwKCAjw6fyXBhBgEiwAhhiZsqx9r-aX0JNu4aRP1haoHZWEBVfAYrZMze3CvwNVilcmeN3DJrgiBxoCOpEQAvD_BwE
+Service Learning,Shriver Center,Peaceworker Frequently Asked Questions (FAQs),Link,https://peaceworker.umbc.edu/general-faqs/
+Service Learning,Shriver Center,Peaceworker Application Frequently Asked Questions (FAQs),Link,https://peaceworker.umbc.edu/application-faqs/
+Service Learning,Shriver Center,Maryland's Public Service Scholars Programs,Link,https://publicservicescholars.umbc.edu/home/fellowship-programs/
+Service Learning,Shriver Center,Maryland's Public Service Scholars Programs Frequently Asked Questions (FAQs),Link,https://publicservicescholars.umbc.edu/faqs/
+Service Learning,Shriver Center,Why join the Choice Program?,Link,https://choice.umbc.edu/join-our-team/
+Service Learning,Shriver Center,Choice Program Frequently Asked Questions (FAQs),Link,https://choice.umbc.edu/join-our-team/fellowship-faq/
+Service Learning,Shriver Center,Maryland Early Childhood Leadership Program (MECLP),Link,https://meclp.umbc.edu/what-we-do/mission-statement/
+Service Learning,Shriver Center,Maryland Early Childhood Leadership Program (MECLP) Frequently Asked Questions (FAQs),Link,https://meclp.umbc.edu/faq/
